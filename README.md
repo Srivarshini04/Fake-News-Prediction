@@ -98,7 +98,7 @@ else:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-news-prediction.git
+git clone https://github.com/Srivarshini04/fake-news-prediction.git
 ```
 
 2. Install required libraries:
